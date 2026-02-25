@@ -70,6 +70,16 @@ Visit our [documentation](https://docs.vllm.ai/en/latest/) to learn more.
 - [Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart.html)
 - [List of Supported Models](https://docs.vllm.ai/en/latest/models/supported_models.html)
 
+## Technical Details
+
+For a deeper technical walkthrough, start with:
+
+- [Architecture Overview](https://docs.vllm.ai/en/latest/design/arch_overview.html)
+- [Paged Attention](https://docs.vllm.ai/en/latest/design/paged_attention.html)
+- [Attention Backends](https://docs.vllm.ai/en/latest/design/attention_backends.html)
+- [Prefix Caching](https://docs.vllm.ai/en/latest/design/prefix_caching.html)
+- [CUDA Graphs](https://docs.vllm.ai/en/latest/design/cuda_graphs.html)
+
 ## Contributing
 
 We welcome and value any contributions and collaborations.
